@@ -1,0 +1,7 @@
+C:\Studenci\19433\Visual\PlikiFoldery\PlikiFoldery\bin\Debug\PlikiFoldery.exe.config
+C:\Studenci\19433\Visual\PlikiFoldery\PlikiFoldery\bin\Debug\PlikiFoldery.exe
+C:\Studenci\19433\Visual\PlikiFoldery\PlikiFoldery\bin\Debug\PlikiFoldery.pdb
+C:\Studenci\19433\Visual\PlikiFoldery\PlikiFoldery\obj\Debug\PlikiFoldery.csprojAssemblyReference.cache
+C:\Studenci\19433\Visual\PlikiFoldery\PlikiFoldery\obj\Debug\PlikiFoldery.csproj.CoreCompileInputs.cache
+C:\Studenci\19433\Visual\PlikiFoldery\PlikiFoldery\obj\Debug\PlikiFoldery.exe
+C:\Studenci\19433\Visual\PlikiFoldery\PlikiFoldery\obj\Debug\PlikiFoldery.pdb
